@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NAURUC8DePX7lN61arGfgu7WSnu4BtUJeBlPMGaurKZd85aV+8l1UbNgc2D0z6PXwtfFUCkosf8nT+ATyddTLQ==",
+  "dgSpecHash": "b0x1JBkgIvZLtxCtKqhyWWzO5huCL9aSuJBI+148VDCgr77HlffuOvWM3D2Ktik88K+UaWqT5vzYhU8KCUDZmA==",
   "success": true,
-  "projectFilePath": "E:\\SistemasDistribuidos\\ApiEscola\\ApiEscola\\ApiEscola.csproj",
+  "projectFilePath": "E:\\SistemasDistribuidos\\Projeto Feito Na Aula\\ApiEscola\\ApiEscola.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\SistemasDistribuidos\\ApiEscola\\ApiEscola\\ApiEscola.csproj": {}
+    "E:\\SistemasDistribuidos\\Projeto Feito Na Aula\\ApiEscola\\ApiEscola.csproj": {}
   },
   "projects": {
-    "E:\\SistemasDistribuidos\\ApiEscola\\ApiEscola\\ApiEscola.csproj": {
+    "E:\\SistemasDistribuidos\\Projeto Feito Na Aula\\ApiEscola\\ApiEscola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\SistemasDistribuidos\\ApiEscola\\ApiEscola\\ApiEscola.csproj",
+        "projectUniqueName": "E:\\SistemasDistribuidos\\Projeto Feito Na Aula\\ApiEscola\\ApiEscola.csproj",
         "projectName": "ApiEscola",
-        "projectPath": "E:\\SistemasDistribuidos\\ApiEscola\\ApiEscola\\ApiEscola.csproj",
+        "projectPath": "E:\\SistemasDistribuidos\\Projeto Feito Na Aula\\ApiEscola\\ApiEscola.csproj",
         "packagesPath": "C:\\Users\\ancel\\.nuget\\packages\\",
-        "outputPath": "E:\\SistemasDistribuidos\\ApiEscola\\ApiEscola\\obj\\",
+        "outputPath": "E:\\SistemasDistribuidos\\Projeto Feito Na Aula\\ApiEscola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ancel\\AppData\\Roaming\\NuGet\\NuGet.Config",
